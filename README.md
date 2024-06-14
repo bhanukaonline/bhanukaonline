@@ -50,7 +50,7 @@ src="https://github.com/avinIndrasoma/avinIndrasoma/blob/main/Discord-Logo%20(1)
 
 <div align="center">
 <h2 align="centre">Visitor Count</h2>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{avinIndrasoma}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{bhanukaonline}/count.svg" /></p> 
 <br>
 </div>
 </p>
